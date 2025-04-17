@@ -1,4 +1,4 @@
-# 🌐 Prosas – Personal Portfolio Website
+# 🌐 Prosas – Website
 
 Welcome to **Prosas**, a sleek and responsive personal portfolio website designed to showcase your skills, projects, and professional journey. Built with modern web technologies, Prosas offers a clean interface and smooth user experience.
 
